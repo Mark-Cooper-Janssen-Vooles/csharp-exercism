@@ -6,6 +6,10 @@ public static class TwoFer
     // can be called both without any arguments and also by passing one string argument.
     public static string Speak()
     {
-        throw new NotImplementedException("You need to implement this function.");
+        // not sure of syntax. watch videos in readme. 
+        // //if string blank
+        // return 'One for you, one for me.';
+        // //if string has an entry 
+        // return `One for ${}, one for me.~;
     }
 }
