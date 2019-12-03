@@ -1,0 +1,13 @@
+/Users/mark/Exercism/csharp/two-fer/obj/Debug/netcoreapp2.1/TwoFer.csprojAssemblyReference.cache
+/Users/mark/Exercism/csharp/two-fer/obj/Debug/netcoreapp2.1/TwoFer.AssemblyInfoInputs.cache
+/Users/mark/Exercism/csharp/two-fer/obj/Debug/netcoreapp2.1/TwoFer.AssemblyInfo.cs
+/Users/mark/Exercism/csharp/two-fer/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/mark/Exercism/csharp/two-fer/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/mark/Exercism/csharp/two-fer/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/Users/mark/Exercism/csharp/two-fer/bin/Debug/netcoreapp2.1/TwoFer.deps.json
+/Users/mark/Exercism/csharp/two-fer/bin/Debug/netcoreapp2.1/TwoFer.runtimeconfig.json
+/Users/mark/Exercism/csharp/two-fer/bin/Debug/netcoreapp2.1/TwoFer.runtimeconfig.dev.json
+/Users/mark/Exercism/csharp/two-fer/bin/Debug/netcoreapp2.1/TwoFer.dll
+/Users/mark/Exercism/csharp/two-fer/bin/Debug/netcoreapp2.1/TwoFer.pdb
+/Users/mark/Exercism/csharp/two-fer/obj/Debug/netcoreapp2.1/TwoFer.dll
+/Users/mark/Exercism/csharp/two-fer/obj/Debug/netcoreapp2.1/TwoFer.pdb
