@@ -6,15 +6,15 @@ public static class TwoFer
     // can be called both without any arguments and also by passing one string argument.
     public static string Speak(string name = "")
     {
-        // not sure of syntax. watch videos in readme. 
-        if (name == "") 
+        string response;
+        if (String.IsNullOrEmpty(name)) 
         {
-            return "One for you, one for me.";
+            response = "One for you, one for me.";
         } else 
         {
-            return $"One for {name}, one for me.";
+            response = $"One for {name}, one for me.";
         }
-        // //if string has an entry 
-        // return `One for ${}, one for me.~;
+
+        return response;  
     }
 }
