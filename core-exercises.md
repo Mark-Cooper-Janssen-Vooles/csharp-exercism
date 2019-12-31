@@ -1,7 +1,5 @@
 ## CORE TO DO:
 
-Robot Name
-
 Allergies
 
 Grade School
